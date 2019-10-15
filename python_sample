@@ -1,0 +1,3 @@
+q1 = input("What is your name? :")
+ans = q1
+print(ans)
